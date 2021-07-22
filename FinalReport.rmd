@@ -145,3 +145,4 @@ When we analyzed the fisherXY test we saw there was a significant difference bet
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+At the Beginning of this report we had to do a lot of data manipulation to get the right graphs and fisher results and get a clear reading from out results. 
